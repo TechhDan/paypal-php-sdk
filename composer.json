@@ -1,0 +1,26 @@
+{
+    "name": "techhdan/paypal-php-sdk",
+    "authors": [
+        {
+            "name": "TechhDan",
+            "email": "tech.dan2689@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TechhDan\\PayPal\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4",
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "tests": "./vendor/phpunit/phpunit/phpunit"
+    }
+}

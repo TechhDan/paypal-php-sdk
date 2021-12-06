@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PayPalTest::testClassCreated":4,"PayPalTest::testPayPalCreation":4,"PayPalTest::testGetAcessToken":1},"times":{"PayPalTest::testClassCreated":0.001,"PayPalTest::testPayPalCreation":0.398,"PayPalTest::testGetAcessToken":0}}
